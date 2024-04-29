@@ -10,6 +10,9 @@
 
 # Descrição
 
+
+<img style="border-radius: 03%;" src="tela-inicial.png" width="500px;" alt=""/>
+
 Este código cria uma página da web de gerenciamento de tarefas simples. Os usuários podem adicionar tarefas através de um formulário, ver a lista de tarefas já adicionadas e apagar todas as tarefas com um botão de "Limpar Tarefas".
 
 # Introdução

@@ -34,15 +34,13 @@ Este código cria uma página da web de gerenciamento de tarefas simples. Os usu
 * [Google Fontes](https://fonts.google.com/)
 * [HTML Colors](https://htmlcolors.com/)
 
-# Autor
+# Autor do README
 
 <a href="https://github.com/SamuelCmdeFarias">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127852994?s=400&u=aa8dca012415519073ea519d6fd5800a32882bee&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Samuel Camargo</b></sub></a> <a href="https://github.com/SamuelCmdeFarias" title="Rocketseat">🚀</a>
+ <sub><h2>Samuel Camargo</h2></sub></a> <a href="https://github.com/SamuelCmdeFarias" title="Rocketseat"></a>
+ <br>
 
 
-Feito por Samuel Camargo ❤️👋🏽. Entre em contato!
+# Autor do Código
 
-
-[![Gmail Badge](https://img.shields.io/badge/-samucsg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:samucacsg@gmail.com)
+[<h2>Monolito PHP</h2>](https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP)
